@@ -1,15 +1,15 @@
 SwarmGrid - Decentralized Resource Allocation Among Autonomous Agents
 
-	Autonomous Agents: Each agent operates independently using configurable behavior models.
-	Decentralized Resource Allocation: Agents manage and exchange resources peer-to-peer with no central authority.
-	Multi-Resource Inventory: Agents hold diverse resources (e.g., energy, food, compute time) and make strategic trade or share  
-        decisions.
+Autonomous Agents: Each agent operates independently using configurable behavior models.
+Decentralized Resource Allocation: Agents manage and exchange resources peer-to-peer with no central authority.
+Multi-Resource Inventory: Agents hold diverse resources (e.g., energy, food, compute time) and make strategic trade or share  
+decisions.
 
-	Flexible Scenarios: Define your own agent types, initial distributions, utility models, and interaction protocols.
-	Simulation Metrics: Analyze agent-level data like utility gain, resource equity, and distribution efficiency over time.
-	Modular Design: Easily extend by adding new resource types, agent classes, or communication protocols.
-	Supports Competition and Cooperation: Model both selfish and altruistic agent behaviors.
-	Visualization Tools: Real-time graphs for network flow, resource utilization, agent clustering, and more.
+Flexible Scenarios: Define your own agent types, initial distributions, utility models, and interaction protocols.
+Simulation Metrics: Analyze agent-level data like utility gain, resource equity, and distribution efficiency over time.
+Modular Design: Easily extend by adding new resource types, agent classes, or communication protocols.
+Supports Competition and Cooperation: Model both selfish and altruistic agent behaviors.
+Visualization Tools: Real-time graphs for network flow, resource utilization, agent clustering, and more.
 
 Installation
 	1. Clone the repository:
@@ -46,14 +46,13 @@ Output
 	- Heatmaps of resource spread
 	- Time series plots of global resource distribution
 Contributing
-	
-        Contributions are welcome! Submit issues and pull requests.
+	Contributions are welcome! Submit issues and pull requests.
 
 License & Attribution
 	Copyright (c) 2025 jonkllfaton
 	All rights reserved.
 	
-        This project is the intellectual property of jonkllfaton. Unauthorized copying, distribution, modification, or use of any part of      
+This project is the intellectual property of jonkllfaton. Unauthorized copying, distribution, modification, or use of any part of      
 
-        this project is strictly prohibited without prior written permission.
-	For permissions or inquiries, contact: jonkllfaton@gmail.com
+this project is strictly prohibited without prior written permission.
+For permissions or inquiries, contact: jonkllfaton@gmail.com
